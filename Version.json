@@ -1,6 +1,6 @@
 
 {
-  "versionCode": 1,
+  "versionCode": 2,
   "versionName": "1.2 Beta",
   "downloadUrl": "https://www.mediafire.com/file/ID_FILE/NAMA_FILE.apk/file",
   "versions": [
@@ -10,7 +10,7 @@
       "changelog": [
         "Penyegaran tampilan menu RaceBoox",
         "Pembaruan tampilan aplikasi",
-        "Penyempurnaan tampilan Settings"
+        "Penyempurnaan tampilan Settingss"
       ]
     },
     {
