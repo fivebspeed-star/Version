@@ -23,5 +23,39 @@
         "Pemuatan changelog dari server"
       ]
     }
+    {
+      "versionCode":2,
+      "versionName":"1.2.1 Beta",
+      "changelog":[
+        "RaceBoox V1.2.1 Beta",
+
+"Update Changelog — 17 Oktober 2026",
+
+"🆕 Fitur Baru",
+
+"- Countdown 5 Detik sebelum balapan dimulai.",
+"- Panduan Suara Otomatis dalam bahasa Indonesia: Lima, Empat, Tiga, Dua, Satu, Mulai!",
+"- Start Otomatis Setelah Countdown — pengukuran waktu dan jarak baru dimulai setelah hitungan selesai.",
+
+"⚙️ Peningkatan Sistem",
+
+"- Tombol START dinonaktifkan sementara selama countdown untuk mencegah input berulang.",
+"- Tampilan countdown dibuat langsung di status RaceBox.",
+"- Pengukuran waktu dan jarak disinkronkan dengan dimulainya sesi balapan.",
+
+"🧪 Status Pengujian",
+
+"- Countdown: Berhasil.",
+"- Suara countdown: Berhasil.",
+"- Timer dan jarak setelah countdown: Berjalan sesuai rancangan.",
+
+"📌 Catatan",
+
+"Versi ini masih Beta. Akurasi GPS dan sinkronisasi waktu tetap perlu diuji dalam kondisi penggunaan nyata yang aman.",
+
+"RaceBoox — V1.2.1 Beta",
+"Speed • Distance • Performance"
+      ]
+        }
   ]
 }
