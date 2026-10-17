@@ -56,6 +56,13 @@
 "RaceBoox — V1.2.1 Beta",
 "Speed • Distance • Performance"
       ]
-        }
+        },
+    {
+      "versionCode":2,
+      "versionName":"1.2.2 Beta A",
+      "changelog":[
+        "soon"
+      ]
+    }
   ]
 }
