@@ -6,7 +6,7 @@
   "versions": [
     {
       "versionCode": 1,
-      "versionName": "1.1 Beta",
+      "versionName": "1.1 Beta Z",
       "changelog": [
         "Penyegaran tampilan menu RaceBoox",
         "Pembaruan tampilan aplikasi",
@@ -15,7 +15,7 @@
     },
     {
       "versionCode": 2,
-      "versionName": "1.2 Beta",
+      "versionName": "1.2 Beta Z",
       "changelog": [
         "Penambahan Update Center",
         "Integrasi pengecekan update melalui GitHub",
@@ -25,9 +25,9 @@
     },
     {
       "versionCode":2,
-      "versionName":"1.2.1 Beta",
+      "versionName":"1.2.1 Beta A",
       "changelog":[
-        "RaceBoox V1.2.1 Beta",
+        "RaceBoox V1.2.1 Beta A",
 
 "Update Changelog — 17 Oktober 2026",
 
